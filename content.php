@@ -50,5 +50,5 @@
         echo "unrfs";
         echo "ldgdn";
         echo "orfdk";
-        echo "boolu";
+        echo "lucfg";
 ?>
