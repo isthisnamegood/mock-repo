@@ -215,5 +215,4 @@
         echo "fkiyj";
         echo "btbeo";
         echo "tboaj";
-        echo "ntbjh";
 ?>
