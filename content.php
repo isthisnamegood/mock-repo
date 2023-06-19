@@ -347,5 +347,4 @@
         echo "cmtwt";
         echo "djxar";
         echo "phsmf";
-        echo "kjyxt";
 ?>
