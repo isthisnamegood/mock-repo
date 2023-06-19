@@ -247,5 +247,4 @@
         echo "nmmxe";
         echo "ebsvk";
         echo "qvmey";
-        echo "yuiaf";
 ?>
