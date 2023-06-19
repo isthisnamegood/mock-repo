@@ -55,5 +55,4 @@
         echo "wsqpi";
         echo "snwia";
         echo "aqwqg";
-        echo "ekorm";
 ?>
