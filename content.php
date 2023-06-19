@@ -4,5 +4,4 @@
         echo "dowxl";
         echo "kgwrp";
         echo "jmocu";
-        echo "ablug";
 ?>
