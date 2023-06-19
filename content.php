@@ -23,5 +23,4 @@
         echo "srrwt";
         echo "hiqvk";
         echo "wefub";
-        echo "cjhsi";
 ?>
