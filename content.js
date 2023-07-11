@@ -1,1 +1,1 @@
-console.log("whest")
+console.log("ffuru")
