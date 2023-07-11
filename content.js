@@ -1,1 +1,1 @@
-console.log("liyes")
+console.log("qyigm")
