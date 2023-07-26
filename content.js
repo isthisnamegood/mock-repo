@@ -1,2 +1,2 @@
 console.log("scinw")
-console.log("sducu")
+console.log("tpcji")
