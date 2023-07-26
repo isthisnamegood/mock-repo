@@ -1,2 +1,2 @@
 console.log("scinw")
-console.log("nyuei")
+console.log("ohgfn")
