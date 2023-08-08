@@ -275,5 +275,4 @@
         echo "tqtou";
         echo "awdvp";
         echo "ovptl";
-        echo "gxolt";
 ?>
