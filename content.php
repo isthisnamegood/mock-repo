@@ -243,5 +243,4 @@
         echo "hjict";
         echo "hwjkh";
         echo "vhrqg";
-        echo "krdle";
 ?>
